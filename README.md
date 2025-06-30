@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TD0961
+- 👋 Hi, I’m tensae deme
 - 👀 I’m interested in ...frontend and backend web(Fullstack) development.
 - 🌱 I’m currently learning ...computer science.
 - 💞️ I’m looking to collaborate on ...any thing related with my interest of the above.
