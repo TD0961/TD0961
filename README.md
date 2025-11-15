@@ -1,53 +1,71 @@
 <h1 align="center">Hi, I'm Tensae 👋</h1>
-<h3 align="center">Full-Stack Developer | React | TypeScript | .NET | DevOps</h3>
+<h3 align="center">Full-Stack Developer | DevOps | Cloud | React | Go | TypeScript</h3>
 
 <p align="center">
-  Passionate about building modern web apps, mobile apps, and scalable cloud systems.
-  I enjoy transforming ideas into real, usable products with clean code and strong architecture.
+  Believer ✝️ | Developer | Problem Solver  
+  Passionate about building modern full-stack applications, scalable backend systems, and solid DevOps workflows.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Full-Stack Developer working with **React, TypeScript, .NET 8, Vite, Tailwind**
-- 📱 Familiar with **mobile development** and modern front-end tooling  
-- ⚙️ DevOps enthusiast exploring **Docker, CI/CD, Linux, Cloud**
-- 🎯 Always learning, improving, and building real-world projects
-- 🌍 Based in Ethiopia
+- 💻 Full-Stack Developer experienced in **React, Next.js, TypeScript, Go, Node.js**
+- ⚙️ DevOps focused: **Docker, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins**
+- 🛢️ Works with SQL & NoSQL databases including **PostgreSQL, MongoDB, Redis**
+- ☁️ Cloud experience with **AWS**
+- 🎨 Loves crafting beautiful UI with **TailwindCSS, Vite**
+- 📚 Always learning and improving — “code, learn, repeat”
+- 🌍 Based in Ethiopia 🇪🇹
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack  
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,vite,ts" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,django,fastapi,nestjs,laravel" />
 </p>
 
-### **DevOps & Tools**
+### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,github,git,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" />
+</p>
+
+### **DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,gitlab,jenkins,prometheus,grafana,terraform,linux" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-Here are some of the projects I'm most proud of:
 
-### 🔹 **MLM Equb Platform (Full-Stack)**
-A digital Equb management platform with MLM structure.  
-Tech: **ASP.NET Core, React, TypeScript, PostgreSQL**
+### 🔹 **Egebeya – Full-Stack E-Commerce**
+A modern and scalable multi-vendor e-commerce platform.  
+**Tech:** React · Node.js/Express · PostgreSQL · TailwindCSS · Docker
 
-### 🔹 **Portfolio Website**
-A modern portfolio built with **React, Vite, Tailwind**, fully responsive.
+---
 
-### 🔹 **DevOps CI/CD Demo**
-A hands-on project showcasing **Docker**, GitHub Actions, and deployment pipeline.
+### 🔹 **StadiPass – Event Ticketing Platform**
+Digital ticketing, QR validation, and event management system.  
+**Tech:** Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL
+
+---
+
+### 🔹 **EventEasy – Event Management System**
+Event creation, scheduling, ticketing, and admin dashboard.  
+**Tech:** React · FastAPI · PostgreSQL · Docker
+
+---
+
+### 🔹 **My Portfolio Website**
+Your live portfolio with animations and modern UI.  
+**Tech:** React · Vite · TailwindCSS · Framer Motion
 
 ---
 
@@ -60,18 +78,19 @@ A hands-on project showcasing **Docker**, GitHub Actions, and deployment pipelin
 ---
 
 ## 🧠 Currently Learning
-- Advanced **TypeScript** patterns  
-- **Microservices** with .NET  
-- **Docker & CI/CD** for scalable deployment  
-- Improving spoken **English communication**  
+- Scaling backend systems with **Go**
+- **Next.js 15** & Server-side rendering
+- Advanced **CI/CD** automation
+- Kubernetes production workflows
+- Improving spoken **English communication**
 
 ---
 
 ## 📫 Contact Me
 - ✉️ **Email:** tensaedeme1@gmail.com  
-- 🔗 **LinkedIn:** (Add your link here)
-- 🌐 **Portfolio:** (Add your deployment link)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/tensae-deme-a18359315/  
+- 🌐 **Portfolio:** https://tensaes.vercel.app  
 
 ---
 
-<h3 align="center">Thanks for visiting my profile ✨</h3>
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
